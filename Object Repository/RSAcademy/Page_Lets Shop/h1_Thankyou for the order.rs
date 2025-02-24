@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Thankyou for the order</name>
+   <tag></tag>
+   <elementGuidId>f9f8ecc7-4503-4834-a8e9-33ae9bfb706c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.hero-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='htmlData']/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr/td/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Thankyou for the order.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6e0f165d-3f63-4508-8408-bf18183d906e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hero-primary</value>
+      <webElementGuid>404875cf-6fb5-4f1b-84f9-d65fc938e66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Thankyou for the order. </value>
+      <webElementGuid>b8eceac7-9631-43dd-a8d8-a8c4693780b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;htmlData&quot;)/tbody[1]/tr[4]/td[@class=&quot;box&quot;]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/h1[@class=&quot;hero-primary&quot;]</value>
+      <webElementGuid>3e9422ff-f82a-4308-8ed3-49bdcd8dd98e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='htmlData']/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr/td/h1</value>
+      <webElementGuid>19ad1f2b-c3fb-47b9-83c0-ec52b51493ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::h1[1]</value>
+      <webElementGuid>3895d416-1e89-4d54-bc28-f48127f9bc3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders History Page'])[1]/preceding::h1[1]</value>
+      <webElementGuid>4fb7dc17-9771-4162-b635-80e9cb9f0951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thankyou for the order.']/parent::*</value>
+      <webElementGuid>6d31ed25-cd95-4f84-abcf-22bf1e496d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>7f3d4d57-bd0f-4d5f-a145-37603167e2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' Thankyou for the order. ' or . = ' Thankyou for the order. ')]</value>
+      <webElementGuid>69696ed3-b08a-444f-a000-a13baf82e829</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
