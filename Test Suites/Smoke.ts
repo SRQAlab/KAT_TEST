@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>TestSuite_02</description>
+   <name>Smoke</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>spranade91@gmail.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8d3031d4-71ef-43f5-b458-558ada6b9c5d</testSuiteGuid>
+   <testCaseLink>
+      <guid>519745c5-633f-4bf1-9a47-2e6d06fd9691</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'Over 1,000 places in Atlanta\t'</defaultValue>
+         <description></description>
+         <id>3daedc09-2406-420b-9857-dddbe2db3d0c</id>
+         <masked>false</masked>
+         <name>expectedResult</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/DDT_AirBnB/FindPlace</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>88c6d194-25e3-488e-b811-02bf1dab4195</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AirBnB Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>88c6d194-25e3-488e-b811-02bf1dab4195</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>3bf5b363-f59b-4ece-8b67-671c6f6a8fd2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>88c6d194-25e3-488e-b811-02bf1dab4195</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>result</value>
+         <variableId>3daedc09-2406-420b-9857-dddbe2db3d0c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fe5ffa44-e970-4868-bc6a-29f576a0edb7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/OrangeHRM/TC2_DDTLogin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3fca767b-0305-4268-a228-2e0a5cebe9bb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/OrangeHRM_Excel_TestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3fca767b-0305-4268-a228-2e0a5cebe9bb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>e16c2602-0794-4e42-8756-e549ada672ec</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3fca767b-0305-4268-a228-2e0a5cebe9bb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>34649b6d-912f-4505-a47b-3a721a800b72</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f71935d1-e3ee-446f-baa1-726402a07d98</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/OrangeHRM/TC1_Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>
