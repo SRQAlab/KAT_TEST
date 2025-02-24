@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC01</description>
+   <name>LaunchApplication</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4250ea7a-d2d4-4a19-b34f-dfc25d0a6783</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21356ef8-5a1c-49c9-89de-34aed0ca50db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>21356ef8-5a1c-49c9-89de-34aed0ca50db</id>
+      <masked>false</masked>
+      <name>CURA_URL</name>
+   </variable>
+</TestCaseEntity>

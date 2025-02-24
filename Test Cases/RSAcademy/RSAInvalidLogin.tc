@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>InvalidLogin</description>
+   <name>RSAInvalidLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ad32e78-e95c-43ee-a85b-50ea5938b998</testCaseGuid>
+</TestCaseEntity>
