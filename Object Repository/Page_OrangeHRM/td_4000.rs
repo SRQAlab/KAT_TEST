@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_4000</name>
+   <tag></tag>
+   <elementGuidId>eb8d4825-7dd6-48d8-ba1b-e9524e9c8e08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/form/div[2]/table/tbody/tr[2]/td[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.orangehrm-timesheet-table-body-cell.--center.--freeze-right.--highlight-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;40:00&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8f52f1ce-a580-419c-a1e4-5945ecebd34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-timesheet-table-body-cell --center --freeze-right --highlight-2</value>
+      <webElementGuid>98b144e3-9e8b-432b-a85f-6041a236ef64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>40:00</value>
+      <webElementGuid>95724272-2521-40a3-b997-f5b6d0529baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/form[@class=&quot;oxd-form orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-timesheet-body&quot;]/table[@class=&quot;orangehrm-timesheet-table&quot;]/tbody[@class=&quot;orangehrm-timesheet-table-body&quot;]/tr[@class=&quot;orangehrm-timesheet-table-body-row --total&quot;]/td[@class=&quot;orangehrm-timesheet-table-body-cell --center --freeze-right --highlight-2&quot;]</value>
+      <webElementGuid>d68d3de6-323f-4dd6-917c-ac6a236f4edf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/form/div[2]/table/tbody/tr[2]/td[10]</value>
+      <webElementGuid>65113c71-8a83-4129-a844-1453c8fd6d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::td[9]</value>
+      <webElementGuid>0bd656b7-3f19-4add-b7c7-739ba4ee325c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::td[18]</value>
+      <webElementGuid>ef044fb0-9202-4a55-9ff8-3335e1aa99c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[10]</value>
+      <webElementGuid>42204b46-ca12-49ec-a5b4-228203a8ee42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '40:00' or . = '40:00')]</value>
+      <webElementGuid>6e74dd01-1712-4a7e-816f-d844aaf038a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
