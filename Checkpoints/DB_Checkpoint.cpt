@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description>DB_Checkpoint</description>
+   <name>DB_Checkpoint</name>
+   <tag></tag>
+   <db-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>jdbc:postgresql://localhost:5432/postgres?currentSchema=katalon_studio</source-url>
+      <source-type>DBData</source-type>
+      <is-using-global-db-setting>false</is-using-global-db-setting>
+      <is-secure-user-account>true</is-secure-user-account>
+      <user>postgres</user>
+      <password>YWRtaW4xMjM=</password>
+      <query><![CDATA[SELECT city , expected FROM katalon_studio.db_ddt]]></query>
+      <driverClassName>postgres</driverClassName>
+      <connectionProperties/>
+   </db-source-info>
+   <taken-date>2025-02-13T22:25:11.135+05:30</taken-date>
+   <column-names>
+      <column-name>city</column-name>
+      <column-name>expected</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Miami",
+      "checked": false
+    },
+    {
+      "value": "Over 1,000 places in Miami",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "New York",
+      "checked": false
+    },
+    {
+      "value": "Over 1,000 places in New York",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Tokyo",
+      "checked": false
+    },
+    {
+      "value": "Over 1,000 places in Tokyo",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Atlanta",
+      "checked": false
+    },
+    {
+      "value": "Over 1,000 places in Atlanta",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

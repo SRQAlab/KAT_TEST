@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>DDT_CSV_TestData</description>
+   <name>DDT_CSV_TestData</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>83a827a9-77b1-433f-b405-d6bbea1843a2</testSuiteGuid>
+   <testCaseLink>
+      <guid>dbfbfa4b-81af-4399-8964-c42e20a70b9f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DDT_AirBnB/FindPlace</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>48afedab-3542-4d36-818a-596c82f55ba8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1-5</value>
+         </iterationEntity>
+         <testDataId>Data Files/AirBnB_CSV_TestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>48afedab-3542-4d36-818a-596c82f55ba8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>﻿city,expectedResult</value>
+         <variableId>3bf5b363-f59b-4ece-8b67-671c6f6a8fd2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>48afedab-3542-4d36-818a-596c82f55ba8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>﻿city,expectedResult</value>
+         <variableId>3daedc09-2406-420b-9857-dddbe2db3d0c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
