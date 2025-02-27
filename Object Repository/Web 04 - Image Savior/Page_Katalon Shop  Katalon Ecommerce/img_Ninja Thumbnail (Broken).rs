@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Ninja Thumbnail (Broken)</name>
+   <tag></tag>
+   <elementGuidId>3f8c7ece-d247-478e-b153-53c2f8e9bf10</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Katalon Shop  Katalon Ecommerce/img_Sale_attachment-woocommerce_thumbnail s_432ea2.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-300x300.jpgzzz']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div[2]/ul/li[4]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail_broken_css</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Katalon Shop  Katalon Ecommerce/img_Sale_attachment-woocommerce_thumbnail s_432ea2.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8ba97112-a864-4749-8c23-bce03189e491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>ad0d8efc-7eeb-4a50-bb0e-cf6aefa7056e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>9071012f-bfb0-473e-8834-1abf99232ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-300x300.jpgzzz</value>
+      <webElementGuid>08bd6be7-e21f-4767-bc66-2827b18d7ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-woocommerce_thumbnail size-woocommerce_thumbnail</value>
+      <webElementGuid>3187968e-3a17-4a2a-9fbe-6ce39cf0a296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-300x300.jpg 300w, http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-150x150.jpg 150w, http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-768x768.jpg 768w, http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-675x675.jpg 675w, http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-323x323.jpg 323w, http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-440x440.jpg 440w, http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-600x600.jpg 600w, http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-100x100.jpg 100w, http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up.jpg 1000w</value>
+      <webElementGuid>92a335de-084a-48ed-9a9c-039b65c8cfda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 300px) 100vw, 300px</value>
+      <webElementGuid>c7db3b97-2009-4384-b4a3-c75df4e6edd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;columns-3&quot;]/ul[@class=&quot;products columns-3&quot;]/li[@class=&quot;product type-product post-54 status-publish first instock product_cat-posters has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple&quot;]/div[@class=&quot;ellie-thumb-wrapper&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/img[@class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot;]</value>
+      <webElementGuid>5a14739f-79be-4c21-9c08-580d3c1e3b07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div[2]/ul/li/div/a/img_broken_xpath</value>
+      <webElementGuid>314c17e6-6752-45b4-80f3-669c0836326c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'http://cms.demo.katalon.com/wp-content/uploads/2019/08/poster_2_up-300x300.jpg')]_broken_xpath</value>
+      <webElementGuid>701ab27b-4213-4c45-8b70-fb07ca4aca26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img_broken_xpath</value>
+      <webElementGuid>ec91eb12-615c-4b4c-868f-74e5277d390f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
