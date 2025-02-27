@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Book Appointment</description>
+   <name>Book Appointment</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4e6a30f-7ad4-4ab9-a602-746e3ecdf39e</testCaseGuid>
+</TestCaseEntity>

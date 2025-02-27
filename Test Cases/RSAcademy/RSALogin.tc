@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>RSALogin</description>
+   <name>RSALogin</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54022ddc-c6ae-43a8-80e7-a868dda3643f</testCaseGuid>
+</TestCaseEntity>

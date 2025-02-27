@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>OCLogin</description>
+   <name>OCLogin</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f458498c-6a13-4f87-bd9f-98e8a7642340</testCaseGuid>
+</TestCaseEntity>

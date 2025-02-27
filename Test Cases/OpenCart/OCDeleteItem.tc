@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>OCDeleteItem</description>
+   <name>OCDeleteItem</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e6de1d4-92ad-4d33-b635-fdbc8585d4f4</testCaseGuid>
+</TestCaseEntity>

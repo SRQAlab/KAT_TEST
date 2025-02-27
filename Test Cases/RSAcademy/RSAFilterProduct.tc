@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ErrorValidation</description>
+   <name>RSAFilterProduct</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d1f4dd8-f3ce-4edf-8480-c99594c5d580</testCaseGuid>
+</TestCaseEntity>

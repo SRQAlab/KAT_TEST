@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SubmitOrder</description>
+   <name>RSASubmitOrder</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da8be70e-6e5b-4d39-9d36-cd08d231abc1</testCaseGuid>
+</TestCaseEntity>

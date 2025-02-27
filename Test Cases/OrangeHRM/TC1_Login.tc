@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login test case</description>
+   <name>TC1_Login</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>012b1602-7d51-4d1a-a254-f393dbdefd23</testCaseGuid>
+</TestCaseEntity>

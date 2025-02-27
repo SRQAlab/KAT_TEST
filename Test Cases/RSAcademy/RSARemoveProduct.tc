@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>RemoveProductFromCart</description>
+   <name>RSARemoveProduct</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>947b9ba1-d784-4c51-a197-d6f3e9083eaa</testCaseGuid>
+</TestCaseEntity>

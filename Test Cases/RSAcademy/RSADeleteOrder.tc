@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DeleteOrder</description>
+   <name>RSADeleteOrder</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3990acaf-42d7-4b9d-bb81-61450c621fca</testCaseGuid>
+</TestCaseEntity>
