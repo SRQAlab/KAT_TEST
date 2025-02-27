@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Success You have added iPhone to your s_b3bae7</name>
+   <tag></tag>
+   <elementGuidId>45a5bc4e-1071-4150-8a40-523117c665fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='alert']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-success.alert-dismissible</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Success: You have added iPhone to your shopping cart!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>562daeb6-8342-4c25-a53b-001bb287794f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-success alert-dismissible</value>
+      <webElementGuid>17f7f299-5e25-4c03-ac98-ef9b0c032c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Success: You have added iPhone to your shopping cart! </value>
+      <webElementGuid>a467b6fb-833e-4baf-b274-e6b5c3bba904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert&quot;)/div[@class=&quot;alert alert-success alert-dismissible&quot;]</value>
+      <webElementGuid>7643bc07-ce7f-43f6-b216-79acfb52bbd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='alert']/div</value>
+      <webElementGuid>6fcce3f0-3871-4c40-9a9a-62b0e8b786d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Success: You have added']/parent::*</value>
+      <webElementGuid>fa3a6f0c-7a93-4ce6-9b9e-90ef1975307b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>849260fb-2c75-46c9-87e0-d7140bbd1784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Success: You have added iPhone to your shopping cart! ' or . = ' Success: You have added iPhone to your shopping cart! ')]</value>
+      <webElementGuid>66a05e67-9170-4ad1-89fa-59e768d9a31e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
