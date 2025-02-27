@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>make appointment</description>
-   <name>MTC01_ Appointment</name>
-   <tag>smoke</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0d1ed4d2-1cce-499f-b315-874783e4aa96</testCaseGuid>
-</TestCaseEntity>

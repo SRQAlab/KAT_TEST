@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Debug_RSA_TestCase</description>
-   <name>Debug_RSA_TestCase</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>cbf02ac7-05b8-4de2-aa15-31a7d836c528</testCaseGuid>
-</TestCaseEntity>
