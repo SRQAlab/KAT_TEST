@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-dashboard_AutomationAutomation Practice_d70d87_1</name>
+   <tag></tag>
+   <elementGuidId>97cb0490-2dd8-4668-b13f-1a9d6707fa47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-dashboard.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-dashboard</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AutomationAutomation Practice HOME ORDERS Cart 3 Sign Out Filters Home | SearchF&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-dashboard</value>
+      <webElementGuid>a02f7f7d-26ee-460e-a298-ec97829bc004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>c908b4ec-5ba8-46f2-904c-e58892f1da63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AutomationAutomation Practice HOME            ORDERS  Cart 3 Sign Out Filters Home | SearchFiltersPrice RangeCategoriesfashionelectronicshouseholdSub Categoriest-shirtsshirtsshoesmobileslaptopsSearch Formenwomen Home | SearchFiltersPrice RangeCategoriesfashionelectronicshouseholdSub Categoriest-shirtsshirtsshoesmobileslaptopsSearch FormenwomenShowing 0 results   |  User can only see maximum 9 products on a page Previous page 1 / 1 You're on page 1 Next pageDesign and Developed By - Kunal Sharma</value>
+      <webElementGuid>3153cae5-604a-423d-8acb-348d561196fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-dashboard[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>9d56692c-acfa-46a2-b0c1-9e0caa60b78e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dashboard</value>
+      <webElementGuid>6767706a-35a7-419d-9f45-b2962d23f85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-dashboard[(text() = concat(&quot;AutomationAutomation Practice HOME            ORDERS  Cart 3 Sign Out Filters Home | SearchFiltersPrice RangeCategoriesfashionelectronicshouseholdSub Categoriest-shirtsshirtsshoesmobileslaptopsSearch Formenwomen Home | SearchFiltersPrice RangeCategoriesfashionelectronicshouseholdSub Categoriest-shirtsshirtsshoesmobileslaptopsSearch FormenwomenShowing 0 results   |  User can only see maximum 9 products on a page Previous page 1 / 1 You&quot; , &quot;'&quot; , &quot;re on page 1 Next pageDesign and Developed By - Kunal Sharma&quot;) or . = concat(&quot;AutomationAutomation Practice HOME            ORDERS  Cart 3 Sign Out Filters Home | SearchFiltersPrice RangeCategoriesfashionelectronicshouseholdSub Categoriest-shirtsshirtsshoesmobileslaptopsSearch Formenwomen Home | SearchFiltersPrice RangeCategoriesfashionelectronicshouseholdSub Categoriest-shirtsshirtsshoesmobileslaptopsSearch FormenwomenShowing 0 results   |  User can only see maximum 9 products on a page Previous page 1 / 1 You&quot; , &quot;'&quot; , &quot;re on page 1 Next pageDesign and Developed By - Kunal Sharma&quot;))]</value>
+      <webElementGuid>d13f32da-eda1-42d1-acff-05c64a5ffaec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Price Range_minPrice</name>
+   <tag></tag>
+   <elementGuidId>f4b74b18-c4be-436a-b075-8b790de993fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sidebar > form.ng-untouched.ng-pristine.ng-valid > div.py-2.border-bottom.ml-3 > div.row > div.col-md-6 > input[name=&quot;minPrice&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='minPrice'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;Min Price&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0eefc734-11fc-418b-b183-2c877fce20ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7c4c1ebd-30b4-4773-a807-1d5c26274a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>minPrice</value>
+      <webElementGuid>8b505697-4f75-4b83-a17f-24d355ca254d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>minPrice</value>
+      <webElementGuid>6ff5620c-a6b0-4d2f-9569-cd34530878e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Min Price</value>
+      <webElementGuid>9414a409-3d6e-4d16-b499-35ea7dcca229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>f9ff3b86-3960-4610-a88b-4e13181bb266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;py-2 border-bottom ml-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>cb6e650a-89f4-41d6-a6df-eb77c91f2934</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='minPrice'])[2]</value>
+      <webElementGuid>ac75cd47-ac8d-44a0-8188-9a6ed39cf9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='sidebar']/form/div[2]/div/div/input</value>
+      <webElementGuid>d045bdb7-65a4-4c35-a1b4-1e67d139dfb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/form/div[2]/div/div/input</value>
+      <webElementGuid>8c80617e-366c-43a5-bc24-8114e99567ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'minPrice' and @placeholder = 'Min Price']</value>
+      <webElementGuid>00923b53-fac8-4471-ba74-9ddc3386dfb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
