@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Get_Number_Of_Total_Option</name>
-   <tag>regression</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>4daf9623-2429-4afa-9a79-ce0859e2a7d8</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>RSALogout</description>
-   <name>RSALogout</name>
-   <tag>sanity</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>9701181d-c738-4ddf-bc16-43d9b8397c8f</testCaseGuid>
-</TestCaseEntity>

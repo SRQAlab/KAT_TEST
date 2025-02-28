@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>DeselectAll_Option</name>
-   <tag>regression</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>81abb48b-0333-4eac-a333-dedfbcc76ea7</testCaseGuid>
-</TestCaseEntity>

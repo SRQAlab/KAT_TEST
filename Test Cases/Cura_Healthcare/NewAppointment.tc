@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>NewAppointment</description>
-   <name>NewAppointment</name>
-   <tag>smoke</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>5b55ba7c-0189-455c-a710-c2ba4220af58</testCaseGuid>
-</TestCaseEntity>

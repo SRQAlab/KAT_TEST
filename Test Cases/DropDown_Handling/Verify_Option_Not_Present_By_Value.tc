@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify_Option_Not_Present_By_Value</name>
-   <tag>regression</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>3eb14c4f-b5da-4b05-9578-0f744851afdc</testCaseGuid>
-</TestCaseEntity>

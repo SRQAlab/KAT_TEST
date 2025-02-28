@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Web 02 - Smart XPath Savior</name>
-   <tag>smoke</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>68fc39c0-6e13-4030-a013-2f1ce7008045</testCaseGuid>
-</TestCaseEntity>

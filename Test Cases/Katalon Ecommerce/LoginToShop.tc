@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>LoginToShop</description>
-   <name>LoginToShop</name>
-   <tag>regression</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>50a1616b-aead-4a37-8ada-9aafd5af54c6</testCaseGuid>
-</TestCaseEntity>

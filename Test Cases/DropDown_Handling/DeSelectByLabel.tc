@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>DeSelectByLabel</name>
-   <tag>regression</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>ee86eb3c-aa38-4e1a-8773-e9bcd354d482</testCaseGuid>
-</TestCaseEntity>

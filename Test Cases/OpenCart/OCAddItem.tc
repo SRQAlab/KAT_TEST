@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>OCAddItem</description>
-   <name>OCAddItem</name>
-   <tag>sanity</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>6173cae8-743a-4ad5-89b5-01b9439c0f09</testCaseGuid>
-</TestCaseEntity>

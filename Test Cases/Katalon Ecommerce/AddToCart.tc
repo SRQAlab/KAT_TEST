@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>AddToCart</description>
-   <name>AddToCart</name>
-   <tag>regression</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>9072b350-d5ac-442d-aef7-a512d1629105</testCaseGuid>
-</TestCaseEntity>
