@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Samsung Galaxy Tab 10.1_img-thumbnail mb-3</name>
+   <tag></tag>
+   <elementGuidId>c9c06691-1792-4fd7-bb9f-1f80e3c36101</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-thumbnail.mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.image > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f518759e-a79c-42d1-bf4b-a1291d4b15dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo.opencart.com/image/cache/catalog/demo/samsung_tab_1-500x500.jpg</value>
+      <webElementGuid>50e4f8a1-3546-4eab-9218-1404b3ac2992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Samsung Galaxy Tab 10.1</value>
+      <webElementGuid>dc565f21-503a-4f06-8c34-453d8246203f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Samsung Galaxy Tab 10.1</value>
+      <webElementGuid>10ad01bd-8946-49ab-8df1-9cd4356951ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-thumbnail mb-3</value>
+      <webElementGuid>cf12b4d2-ade9-4de6-ad47-dedc33981988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm&quot;]/div[@class=&quot;image magnific-popup&quot;]/a[1]/img[@class=&quot;img-thumbnail mb-3&quot;]</value>
+      <webElementGuid>8e991966-7997-4d45-a903-298fe7a3df07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/a/img</value>
+      <webElementGuid>29c347f3-e450-4f5e-967b-c465f3f6eaa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Samsung Galaxy Tab 10.1']</value>
+      <webElementGuid>48af0b0b-6e76-4157-9557-28816db7ecd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a/img</value>
+      <webElementGuid>4bebb2c4-5fa9-43b0-90af-e4e117530685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo.opencart.com/image/cache/catalog/demo/samsung_tab_1-500x500.jpg' and @title = 'Samsung Galaxy Tab 10.1' and @alt = 'Samsung Galaxy Tab 10.1']</value>
+      <webElementGuid>59039a25-8a1a-43cd-944b-7d6fc52dd9b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
