@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC01_Login</description>
+   <name>TC01_Login</name>
+   <tag>PA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2735d745-6187-4f5d-9532-7a6e044d7382</testCaseGuid>
+</TestCaseEntity>

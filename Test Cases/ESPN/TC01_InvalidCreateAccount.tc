@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC01_Login</description>
+   <name>TC01_InvalidCreateAccount</name>
+   <tag>ESPN</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c1334f4-6e75-40f1-af93-03b9f6cad7da</testCaseGuid>
+</TestCaseEntity>

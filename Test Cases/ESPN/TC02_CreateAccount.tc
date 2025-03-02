@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC02_CreateAccount</description>
+   <name>TC02_CreateAccount</name>
+   <tag>ESPN</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>554a0e4a-0c67-465f-bf39-f18890f2df7e</testCaseGuid>
+</TestCaseEntity>

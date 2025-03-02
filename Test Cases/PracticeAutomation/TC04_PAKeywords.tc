@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC04_PAKeywords</description>
+   <name>TC04_PAKeywords</name>
+   <tag>PA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1359ec5e-0f05-4a79-957d-ef288f19a670</testCaseGuid>
+</TestCaseEntity>

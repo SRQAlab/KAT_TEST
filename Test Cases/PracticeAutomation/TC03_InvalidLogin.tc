@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC03_InvalidLogin</description>
+   <name>TC03_InvalidLogin</name>
+   <tag>PA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7bb54bd-6db5-48ce-abcc-017845e43bdb</testCaseGuid>
+</TestCaseEntity>

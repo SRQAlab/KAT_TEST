@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC04_Login</description>
+   <name>TC04_Login</name>
+   <tag>ESPN</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8452e6c-2642-4312-a39f-08af1c210682</testCaseGuid>
+</TestCaseEntity>

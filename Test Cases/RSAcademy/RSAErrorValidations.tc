@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SearchItem</description>
+   <name>RSAErrorValidations</name>
+   <tag>RSA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>818c4a00-1bd9-4047-9c4c-9d68096ac932</testCaseGuid>
+</TestCaseEntity>

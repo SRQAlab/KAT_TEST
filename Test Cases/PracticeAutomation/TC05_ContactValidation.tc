@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC05_ContactValidation</description>
+   <name>TC05_ContactValidation</name>
+   <tag>PA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36234993-a24e-43cc-b381-709dd869b47b</testCaseGuid>
+</TestCaseEntity>

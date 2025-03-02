@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC06_TestExceptions</description>
+   <name>TC06_TestExceptions</name>
+   <tag>PA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27285199-37ea-40f8-8fe0-55fac64826be</testCaseGuid>
+</TestCaseEntity>
