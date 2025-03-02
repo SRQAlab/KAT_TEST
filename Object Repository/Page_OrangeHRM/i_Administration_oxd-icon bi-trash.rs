@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Administration_oxd-icon bi-trash</name>
+   <tag></tag>
+   <elementGuidId>124e2b57-31b0-453a-898b-ce02597ff7d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/form/div[2]/table/tbody/tr/td[10]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6b12e6e3-b6db-4901-9f4d-d1f7de3aee0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-trash</value>
+      <webElementGuid>4bd3ed45-b63f-4079-8aab-ed2bfe70affe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/form[@class=&quot;oxd-form orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-timesheet-body&quot;]/table[@class=&quot;orangehrm-timesheet-table --editable&quot;]/tbody[@class=&quot;orangehrm-timesheet-table-body&quot;]/tr[@class=&quot;orangehrm-timesheet-table-body-row&quot;]/td[@class=&quot;orangehrm-timesheet-table-body-cell --flex&quot;]/button[@class=&quot;oxd-icon-button orangehrm-timesheet-icon&quot;]/i[@class=&quot;oxd-icon bi-trash&quot;]</value>
+      <webElementGuid>7be6f358-3e90-4646-a141-b0e71c9ca169</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/form/div[2]/table/tbody/tr/td[10]/button/i</value>
+      <webElementGuid>ffa8176f-a86d-47ef-9498-0fa82c29d35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/button/i</value>
+      <webElementGuid>ef207875-e60c-42aa-94fd-b957905ba708</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
