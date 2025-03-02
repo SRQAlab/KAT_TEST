@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Switch To Window Title</description>
+   <name>Switch To Window Title</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c99e948d-e156-4b34-847f-b81d39a63f76</testCaseGuid>
+</TestCaseEntity>

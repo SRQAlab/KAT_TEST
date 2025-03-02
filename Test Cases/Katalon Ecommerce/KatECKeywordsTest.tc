@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>KatECKeywordsTest</description>
+   <name>KatECKeywordsTest</name>
+   <tag>KATShop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>336088dc-6eb6-482d-b149-ce8f00b9af1f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TCCustomKeywordFindPlace</description>
+   <name>TCCustomKeywordFindPlace</name>
+   <tag>AirBnB</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a9b3b5a-cffd-4df2-add5-03c53cbbecf4</testCaseGuid>
+</TestCaseEntity>

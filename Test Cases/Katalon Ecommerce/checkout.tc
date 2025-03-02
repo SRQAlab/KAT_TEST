@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>checkout</description>
+   <name>checkout</name>
+   <tag>KATShop</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df619d44-5ee4-4276-822e-3f5e1b006068</testCaseGuid>
+</TestCaseEntity>

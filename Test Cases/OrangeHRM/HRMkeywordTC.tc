@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>HRMkeywordTC</description>
+   <name>HRMkeywordTC</name>
+   <tag>OHRM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96486814-edba-4f16-b313-edb4014c17d3</testCaseGuid>
+</TestCaseEntity>

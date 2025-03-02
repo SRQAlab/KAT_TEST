@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>NewTC</description>
+   <name>NewTC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3261a270-1708-48d0-ab70-c175e7dfd323</testCaseGuid>
+</TestCaseEntity>

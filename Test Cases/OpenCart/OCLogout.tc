@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>OCLogout</description>
+   <name>OCLogout</name>
+   <tag>OC</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee714f91-aa64-48c0-90cb-d94c109ad840</testCaseGuid>
+</TestCaseEntity>

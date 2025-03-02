@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PSLogin</description>
+   <name>PSLogin</name>
+   <tag>PS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>488298ed-f500-4f6b-b188-5058b34cbda0</testCaseGuid>
+</TestCaseEntity>

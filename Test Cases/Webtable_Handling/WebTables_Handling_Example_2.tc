@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WebTables_Handling_Example_2</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e20ab8c-2d42-4b68-a8e9-debd49dfd937</testCaseGuid>
+</TestCaseEntity>

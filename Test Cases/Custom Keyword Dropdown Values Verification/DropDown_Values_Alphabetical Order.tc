@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DropDown_Values_Alphabetical Order</description>
+   <name>DropDown_Values_Alphabetical Order</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d309449c-39b2-4447-bd59-bd68e9f3889a</testCaseGuid>
+</TestCaseEntity>

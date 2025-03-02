@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PSKeywordsTest</description>
+   <name>PSKeywordsTest</name>
+   <tag>PS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84ff6f85-1be6-49a2-9820-5138827d96e8</testCaseGuid>
+</TestCaseEntity>
