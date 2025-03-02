@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_India</name>
+   <tag></tag>
+   <elementGuidId>70fe5a6e-bd6e-4311-a767-6a3fa63fe1dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='British Indian Ocean Territory'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; India&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33c41bfe-0076-4e0a-a517-0747bc3395ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>5bb593c6-df61-4295-ae99-4327709d080c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> India</value>
+      <webElementGuid>efc188d9-e648-46c8-ad23-95e7bb29835b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-order[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;payment&quot;]/div[@class=&quot;payment__info&quot;]/div[@class=&quot;payment__shipping&quot;]/div[@class=&quot;details__user&quot;]/div[@class=&quot;user__name mt-5&quot;]/div[@class=&quot;user__address&quot;]/div[@class=&quot;form-group&quot;]/section[@class=&quot;ta-results list-group ng-star-inserted&quot;]/button[@class=&quot;ta-item list-group-item ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>ea00da39-49e9-4cf3-8050-1846f81e76ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='British Indian Ocean Territory'])[1]/following::span[1]</value>
+      <webElementGuid>5c985d8e-1509-430e-8893-4c9f6f17a1a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='swan@mailinator.com'])[1]/following::span[2]</value>
+      <webElementGuid>9d809ad2-fe78-4d34-8501-f5deb42eff0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place Order'])[1]/preceding::span[1]</value>
+      <webElementGuid>3a2b53f3-bd9b-4408-ab28-261b5682c78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='India']/parent::*</value>
+      <webElementGuid>6d098cca-b73f-453d-8f2d-9a7c0d666c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>e0349578-8b6e-4a60-b475-67370cffa23c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' India' or . = ' India')]</value>
+      <webElementGuid>40d13325-93a4-4c42-be71-3c931bcb2d31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

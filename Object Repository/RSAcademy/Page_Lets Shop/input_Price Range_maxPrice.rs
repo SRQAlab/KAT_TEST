@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Price Range_maxPrice</name>
+   <tag></tag>
+   <elementGuidId>e761680c-3e8f-443d-a037-d8770b165004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sidebar > form.ng-untouched.ng-valid.ng-dirty > div.py-2.border-bottom.ml-3 > div.row > div.col-md-6 > input[name=&quot;maxPrice&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='maxPrice'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;Max Price&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>476d632b-c1ce-4af5-b053-4b9363c452f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d0c9b482-37af-46ef-b764-ac1f839ff657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>maxPrice</value>
+      <webElementGuid>215d8689-5294-4364-85c7-8cadfbf4dfe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>maxPrice</value>
+      <webElementGuid>797edc23-e8a4-4214-b270-82aa9f68b301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Max Price</value>
+      <webElementGuid>70981438-8dcf-42da-a61c-2d037bd0bf9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>36cb7f15-d1e0-4ec6-b88e-e71990bde9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/form[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;py-2 border-bottom ml-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>61590bc2-e021-4610-a250-e702ff59085b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='maxPrice'])[2]</value>
+      <webElementGuid>a0fa5482-2cd8-4a89-9bb5-a58380b81ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='sidebar']/form/div[2]/div/div[2]/input</value>
+      <webElementGuid>f11e9f05-6a48-4f54-8707-c40cc292f3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/form/div[2]/div/div[2]/input</value>
+      <webElementGuid>da3b97f9-75ef-4a61-b5f4-30e77c672730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'maxPrice' and @placeholder = 'Max Price']</value>
+      <webElementGuid>8ec88770-2aa8-4e19-869d-93e02e5c13aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
