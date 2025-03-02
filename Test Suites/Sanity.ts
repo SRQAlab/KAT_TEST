@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>TestSuite_01</description>
+   <name>Sanity</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>spranade91@gmail.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>24f5d159-4348-4a7e-82df-38ea61043c4d</testSuiteGuid>
+   <testCaseLink>
+      <guid>54ada1aa-6662-489e-aee8-ead28cf65e5f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cura_Healthcare/LaunchApplication</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>21356ef8-5a1c-49c9-89de-34aed0ca50db</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4a402818-8b85-46b5-aec2-24e81d5bf774</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cura_Healthcare/Book Appointment</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fe505d5e-0431-4e25-9cdb-098ae2f0915f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cura_Healthcare/NewAppointment</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>12561ae1-876f-40c8-a53e-13775de4191d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cura_Healthcare/Book Appointment Parameterized</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b46a2d28-347b-4f0a-a028-8ff7be50af88</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4706a2d5-19ab-4b6a-b3d5-fbf1363affa9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
