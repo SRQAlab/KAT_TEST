@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_India</name>
+   <tag></tag>
+   <elementGuidId>daa12c74-d8a1-4707-8183-af3e8c246d49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.FavMgmt__Col.FavMgmt__Col--Right.flex.flex-column > div.FavMgmt__Wrapper.br2.flex-auto > ul.FavMgmt__Section > li.FavMgmt__Item.flex.items-center > div.FavMgmt__Details.flex.min-w-0.items-center.flex-grow > div.FavMgmt__Details__Txt.min-w-0.flex.flex-column.pl3 > h2.FavMgmt__Details__Name.truncate.h9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fittPortal_0']/div/div/section/div/div/section/div/section/section[2]/div/ul/li[2]/div/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;India&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>0890d267-b247-446e-b9a0-291368830ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FavMgmt__Details__Name truncate h9</value>
+      <webElementGuid>a6626d81-bb17-47d8-825b-87c8eeba49f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>India</value>
+      <webElementGuid>7723bce5-687e-4064-9604-3ddbcfbe52a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fittPortal_0&quot;)/div[@class=&quot;bp-mobile bp-mobileLG bp-mobileTablet bp-mobileMDPlus bp-mobileLGPlus no-touch&quot;]/div[@class=&quot;lightbox__wrapper flex justify-center lightbox__wrapper--mobile LightBox&quot;]/section[@class=&quot;lightbox__contentBox overflow-hidden relative lightbox__contentBox--heightWebkit lightbox__contentBox--mobile&quot;]/div[@class=&quot;lightbox__content lightbox__content--mobile&quot;]/div[@class=&quot;ResponsiveWrapper&quot;]/section[@class=&quot;Card FavMgmt FavMgmt--tabletPlus&quot;]/div[@class=&quot;Wrapper Card__Content&quot;]/section[@class=&quot;FavMgmt__Pane flex justify&quot;]/section[@class=&quot;FavMgmt__Col FavMgmt__Col--Right flex flex-column&quot;]/div[@class=&quot;FavMgmt__Wrapper br2 flex-auto&quot;]/ul[@class=&quot;FavMgmt__Section&quot;]/li[@class=&quot;FavMgmt__Item flex items-center&quot;]/div[@class=&quot;FavMgmt__Details flex min-w-0 items-center flex-grow&quot;]/div[@class=&quot;FavMgmt__Details__Txt min-w-0 flex flex-column pl3&quot;]/h2[@class=&quot;FavMgmt__Details__Name truncate h9&quot;]</value>
+      <webElementGuid>623f3980-dd2d-4533-8ca3-ef7e4e132588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPN/Page_ESPN India - Serving Sports Fans. Anyt_cfbf67/iframe_concat(id(, , favorites-manager-ifra_846b91</value>
+      <webElementGuid>b99e9960-e31b-4780-abf4-56e0a42590e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fittPortal_0']/div/div/section/div/div/section/div/section/section[2]/div/ul/li[2]/div/div[2]/h2</value>
+      <webElementGuid>9cb8e562-ae0a-4e59-baa8-c05ef4bdaa75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Teams'])[1]/following::h2[1]</value>
+      <webElementGuid>0b893cb7-c1a7-4f95-aca3-ebadd82f1cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Sort'])[1]/following::h2[1]</value>
+      <webElementGuid>c0d1e949-0201-4772-a2c0-09ae793c2941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cricket'])[1]/preceding::h2[1]</value>
+      <webElementGuid>466852cc-b443-4647-a342-aaaf32c614b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unfollow'])[1]/preceding::h2[1]</value>
+      <webElementGuid>f6c5acde-af5c-44a4-9434-549d3961183e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='India']/parent::*</value>
+      <webElementGuid>a8aaf971-c12a-4ac5-bb34-9d9605e41dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/ul/li[2]/div/div[2]/h2</value>
+      <webElementGuid>8ab87947-da17-4923-b704-acb73041b921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'India' or . = 'India')]</value>
+      <webElementGuid>d502f10b-fc8e-4023-ae0c-c14066021639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cricket'])[17]/preceding::h2[1]</value>
+      <webElementGuid>4ce63a82-d589-4118-b408-af4e8e3735c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unfollow'])[2]/preceding::h2[1]</value>
+      <webElementGuid>6c1b39ed-bf76-4e5c-9a32-94e5be65fb87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

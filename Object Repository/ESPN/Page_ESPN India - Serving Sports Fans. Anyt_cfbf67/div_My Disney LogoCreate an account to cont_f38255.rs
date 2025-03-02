@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My Disney LogoCreate an account to cont_f38255</name>
+   <tag></tag>
+   <elementGuidId>2a716334-dec8-4051-bd7f-7f50a1da3f1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Create an account to continue&quot;i >> div >> internal:has-text=&quot;My Disney LogoCreate an account to continueWith a MyDisney account, you can log &quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b13f010f-140e-487f-ac71-ebf70305ac50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>896d4c44-8b4b-4951-ab81-4b871c4c2d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Disney LogoCreate an account to continueWith a MyDisney account, you can log into ESPN and other services across The Walt Disney Family of Companies. Create your account using swan@abc.com editFirst NameLast Name Choose a passwordPlease make sure your password is at least six characters, includes at least one number or special character, and is not a commonly used password. Use a minimum of six characters (case sensitive)Use letters with at least one number or special characterAvoid using the same password from another account. Yes! I would like to receive occasional information and offers about my favorite teams, sports and other information from ESPN, ESPN+ and The Walt Disney Family of CompaniesBy creating an account, I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.My home country/region: India. editAgree &amp; ContinueLearn more about MyDisneyMyDisney lets you seamlessly log into services and experiences across The Walt Disney Family of Companies, such as Disney+, ESPN, Walt Disney World,  and more.</value>
+      <webElementGuid>2d0543ee-f6d6-4597-a356-22cbe9a187ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[3]/div[@class=&quot;lightbox-bg modal d-block branded&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content view view-starry-night bottom-grow&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>116fbe8a-a728-417b-8677-e8a202075a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPN/Page_ESPN India - Serving Sports Fans. Anyt_cfbf67/iframe_concat(id(, , oneid-iframe, , ))_one_8d9a57</value>
+      <webElementGuid>63262caa-b1d2-4dce-9183-900a65ca8827</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>5c52cd50-5011-4f9c-9dd2-cf6ab519b1bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div</value>
+      <webElementGuid>ca363966-c81b-4368-bec5-458254a5920d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My Disney LogoCreate an account to continueWith a MyDisney account, you can log into ESPN and other services across The Walt Disney Family of Companies. Create your account using swan@abc.com editFirst NameLast Name Choose a passwordPlease make sure your password is at least six characters, includes at least one number or special character, and is not a commonly used password. Use a minimum of six characters (case sensitive)Use letters with at least one number or special characterAvoid using the same password from another account. Yes! I would like to receive occasional information and offers about my favorite teams, sports and other information from ESPN, ESPN+ and The Walt Disney Family of CompaniesBy creating an account, I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.My home country/region: India. editAgree &amp; ContinueLearn more about MyDisneyMyDisney lets you seamlessly log into services and experiences across The Walt Disney Family of Companies, such as Disney+, ESPN, Walt Disney World,  and more.' or . = 'My Disney LogoCreate an account to continueWith a MyDisney account, you can log into ESPN and other services across The Walt Disney Family of Companies. Create your account using swan@abc.com editFirst NameLast Name Choose a passwordPlease make sure your password is at least six characters, includes at least one number or special character, and is not a commonly used password. Use a minimum of six characters (case sensitive)Use letters with at least one number or special characterAvoid using the same password from another account. Yes! I would like to receive occasional information and offers about my favorite teams, sports and other information from ESPN, ESPN+ and The Walt Disney Family of CompaniesBy creating an account, I agree to the Terms of Use and acknowledge that I have read the Privacy Policy.My home country/region: India. editAgree &amp; ContinueLearn more about MyDisneyMyDisney lets you seamlessly log into services and experiences across The Walt Disney Family of Companies, such as Disney+, ESPN, Walt Disney World,  and more.')]</value>
+      <webElementGuid>4c1ed18f-1af5-4483-bf98-6f0bc6186b28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

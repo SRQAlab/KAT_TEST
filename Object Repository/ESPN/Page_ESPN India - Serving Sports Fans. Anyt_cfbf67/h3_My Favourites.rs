@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_My Favourites</name>
+   <tag></tag>
+   <elementGuidId>1de55f9e-ad01-4297-87a9-eb27bfaf19b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.lightboxTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fittPortal_0']/div/div/section/header/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;My Favourites&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>9fda9f88-84fe-4d47-8c3d-e2020e34367b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lightboxTitle</value>
+      <webElementGuid>5d136de2-adcd-4d4e-803d-673e1fff5c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Favourites</value>
+      <webElementGuid>aa4ccfc3-5034-4832-88d1-a4e9a822cfb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fittPortal_0&quot;)/div[@class=&quot;bp-mobile bp-mobileLG bp-mobileTablet bp-mobileMDPlus bp-mobileLGPlus no-touch&quot;]/div[@class=&quot;lightbox__wrapper flex justify-center lightbox__wrapper--mobile LightBox&quot;]/section[@class=&quot;lightbox__contentBox overflow-hidden relative lightbox__contentBox--heightWebkit lightbox__contentBox--mobile&quot;]/header[@class=&quot;lightbox__header flex justify-center items-center lightbox__header--title lightbox__header--headerSpacing lightbox__header--mobile&quot;]/h3[@class=&quot;lightboxTitle&quot;]</value>
+      <webElementGuid>3e7d1ea7-8a7f-456e-b049-a6050a5ff270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPN/Page_ESPN India - Serving Sports Fans. Anyt_cfbf67/iframe_concat(id(, , favorites-manager-ifra_846b91</value>
+      <webElementGuid>df492c44-585b-451b-88da-3d927bed1ccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fittPortal_0']/div/div/section/header/h3</value>
+      <webElementGuid>d9497e4d-da72-4ea2-ba70-cc5195638969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suggested Teams'])[1]/preceding::h3[1]</value>
+      <webElementGuid>fcb683a2-56d1-4071-9bce-d1116ca374f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manchester United'])[1]/preceding::h3[1]</value>
+      <webElementGuid>af1e3ad1-3dbb-4810-90d8-be2690176357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Favourites']/parent::*</value>
+      <webElementGuid>844bdde3-20e0-4635-9bcb-79c116200922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>4efe0dc4-ff38-462e-ab91-615eda2a838a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'My Favourites' or . = 'My Favourites')]</value>
+      <webElementGuid>d118ba7e-d489-4d6b-842b-cf277c4f437c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

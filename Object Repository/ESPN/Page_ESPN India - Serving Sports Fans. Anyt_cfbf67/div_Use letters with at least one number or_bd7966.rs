@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Use letters with at least one number or_bd7966</name>
+   <tag></tag>
+   <elementGuidId>2ac4a032-3f64-466e-a52d-0d1c3610a2d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasswordPanel']/small/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Use letters with at least one number or special character&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>559b05fe-bab6-448f-b028-3f91c39ad96d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>password-info</value>
+      <webElementGuid>fc47d753-810d-4310-8ab5-61f556934cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Use letters with at least one number or special character</value>
+      <webElementGuid>264756c3-9d8d-4eb8-a849-ac8da9e03c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasswordPanel&quot;)/small[@class=&quot;password-info-panel collapse show&quot;]/div[@class=&quot;password-info&quot;]</value>
+      <webElementGuid>4eb4c93c-6ee7-4722-a528-cfcacd0ca44a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPN/Page_ESPN India - Serving Sports Fans. Anyt_cfbf67/iframe_concat(id(, , oneid-iframe, , ))_one_8d9a57</value>
+      <webElementGuid>204d872c-0206-4342-a0ff-2350bd23a8e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasswordPanel']/small/div[3]</value>
+      <webElementGuid>ca853f28-e28a-434b-af48-e78e70bc8c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use a minimum of six characters (case sensitive)'])[1]/following::div[1]</value>
+      <webElementGuid>275ed730-cc80-410c-8551-51d73c0bc232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter a password.'])[1]/following::div[5]</value>
+      <webElementGuid>a7c5c848-39cd-4aa5-bac3-140d9cc97eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avoid using the same password from another account.'])[1]/preceding::div[1]</value>
+      <webElementGuid>d5f6a38e-650e-4d0d-b780-9f4c77963edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/preceding::div[2]</value>
+      <webElementGuid>4dc396e3-04fa-4592-98e6-5f37418a60a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Use letters with at least one number or special character']/parent::*</value>
+      <webElementGuid>feb9b371-ad8e-4ae6-9fb0-0f20b7742609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/div[3]</value>
+      <webElementGuid>cd20124f-3990-4eac-a235-b76e416019e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Use letters with at least one number or special character' or . = 'Use letters with at least one number or special character')]</value>
+      <webElementGuid>41150a5d-0b8d-4ef7-b345-42e5435b8a9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cricket_1</name>
+   <tag></tag>
+   <elementGuidId>70e44632-7da3-4311-8759-62b0acb036df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;&amp;lpos=favorites:nav:team:user:clubhouse:2&quot;] > div.link-text > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='global-header']/div[2]/ul/li[2]/div/div/ul[2]/li/div/ul/li[2]/a/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Mumbai Indians Cricket&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>16fea853-c590-41cd-8b3d-4259c51aaf20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cricket</value>
+      <webElementGuid>98c45b13-248a-4e67-b7e7-b0d41bbc7725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-header&quot;)/div[@class=&quot;container&quot;]/ul[@class=&quot;tools focused&quot;]/li[@class=&quot;user hover&quot;]/div[@class=&quot;global-user&quot;]/div[@class=&quot;global-user-container&quot;]/ul[@class=&quot;favs&quot;]/li[1]/div[@class=&quot;current-favorites&quot;]/ul[@class=&quot;current-favorites-container&quot;]/li[2]/a[@class=&quot;fav-header&quot;]/div[@class=&quot;link-text&quot;]/span[1]</value>
+      <webElementGuid>53df8ba3-0be8-41cd-a8df-09a6a0c09c5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='global-header']/div[2]/ul/li[2]/div/div/ul[2]/li/div/ul/li[2]/a/div[2]/span</value>
+      <webElementGuid>7e57dcdb-6f03-4792-9d16-d093a07d34f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cricket'])[2]/following::span[1]</value>
+      <webElementGuid>4f95db36-f065-41b6-8080-672f5fedd0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cricket'])[4]/preceding::span[1]</value>
+      <webElementGuid>1f58ba1c-9612-43f3-b09b-7dc07484de63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div[2]/span</value>
+      <webElementGuid>8910262f-41ef-4c34-af74-da7d8af4a78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cricket' or . = 'Cricket')]</value>
+      <webElementGuid>1a389031-e164-4ec4-8771-ff4d908387a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Avoid using the same password from anot_7fccd7</name>
+   <tag></tag>
+   <elementGuidId>5b09c3c0-7a95-4715-a701-1184cea61bea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasswordPanel']/small/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Avoid using the same password from another account.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>75ac18ab-a72b-40dd-8df5-55f54d2e5af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>password-info</value>
+      <webElementGuid>b14836dd-0de2-43af-9689-d7e0065073b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avoid using the same password from another account.</value>
+      <webElementGuid>199687e7-30b6-4288-94fa-2e48d9d79c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasswordPanel&quot;)/small[@class=&quot;password-info-panel collapse show&quot;]/div[@class=&quot;password-info&quot;]</value>
+      <webElementGuid>2100e720-4b6a-4527-819b-61ec92894393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPN/Page_ESPN India - Serving Sports Fans. Anyt_cfbf67/iframe_concat(id(, , oneid-iframe, , ))_one_8d9a57</value>
+      <webElementGuid>32968a9f-5ddc-410e-9cc2-c92061eb56b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasswordPanel']/small/div[4]</value>
+      <webElementGuid>04d11863-dea6-422c-a014-aa789cbd4b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use letters with at least one number or special character'])[1]/following::div[1]</value>
+      <webElementGuid>879fb38f-bd5b-4ee6-8c53-0e852bbf93ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use a minimum of six characters (case sensitive)'])[1]/following::div[2]</value>
+      <webElementGuid>1a68c246-14d7-42c7-bd00-065bda7333eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/preceding::div[1]</value>
+      <webElementGuid>991c3d46-04ba-41e1-8f38-d91e84290df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::div[1]</value>
+      <webElementGuid>e691344b-73c7-4ce2-9124-750b59b65e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avoid using the same password from another account.']/parent::*</value>
+      <webElementGuid>31219e97-a4b9-42a1-b153-3042e7e27a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/div[4]</value>
+      <webElementGuid>3396d08e-0af9-4166-890a-0f7996494053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Avoid using the same password from another account.' or . = 'Avoid using the same password from another account.')]</value>
+      <webElementGuid>d54b6a23-094f-4a9a-b8b4-60374601b0d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

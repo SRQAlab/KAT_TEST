@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cricket</name>
+   <tag></tag>
+   <elementGuidId>39e3c711-6f73-429e-bb5f-df8f49f40628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.link-text > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='global-header']/div[2]/ul/li[2]/div/div/ul[2]/li/div/ul/li/a/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;India Cricket&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bfefa545-c85e-473e-bce8-7f6dd56567aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cricket</value>
+      <webElementGuid>9c41e4db-9a7c-482d-8f03-fb14dbc315f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-header&quot;)/div[@class=&quot;container&quot;]/ul[@class=&quot;tools focused&quot;]/li[@class=&quot;user hover&quot;]/div[@class=&quot;global-user&quot;]/div[@class=&quot;global-user-container&quot;]/ul[@class=&quot;favs&quot;]/li[1]/div[@class=&quot;current-favorites&quot;]/ul[@class=&quot;current-favorites-container&quot;]/li[1]/a[@class=&quot;fav-header&quot;]/div[@class=&quot;link-text&quot;]/span[1]</value>
+      <webElementGuid>4187b3ef-fd81-4c88-a976-ae623f4a8f01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='global-header']/div[2]/ul/li[2]/div/div/ul[2]/li/div/ul/li/a/div[2]/span</value>
+      <webElementGuid>a1389e6a-0f3b-4850-a140-d547397d2bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[1]</value>
+      <webElementGuid>cf496e83-529b-410e-9233-41267eef1705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cricket'])[2]/preceding::span[1]</value>
+      <webElementGuid>8e2d2381-0947-4993-a5c9-d89aa596382f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cricket']/parent::*</value>
+      <webElementGuid>41f4dc16-35bd-44a5-b922-90b1cbed17ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>c64f8205-3c99-4f8f-867d-d8a0eb07b14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cricket' or . = 'Cricket')]</value>
+      <webElementGuid>4daf0a26-7047-4fa2-a479-98b0615184c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

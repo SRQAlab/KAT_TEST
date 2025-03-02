@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_FavouritesEdit</name>
+   <tag></tag>
+   <elementGuidId>01529a5f-0453-42a5-9dca-d524538adf00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.feed-title.favorites</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='global-header']/div[2]/ul/li[2]/div/div/ul[2]/li/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Favourites Edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>068e4299-9755-4d55-b53b-c4db71cea80c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>feed-title favorites</value>
+      <webElementGuid>4d6e55dd-5fcc-481a-9440-93d1cbcf8c72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FavouritesEdit</value>
+      <webElementGuid>c2127dbb-e0d8-4009-b82e-a41d11a32d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-header&quot;)/div[@class=&quot;container&quot;]/ul[@class=&quot;tools focused&quot;]/li[@class=&quot;user hover&quot;]/div[@class=&quot;global-user&quot;]/div[@class=&quot;global-user-container&quot;]/ul[@class=&quot;favs&quot;]/li[1]/div[@class=&quot;current-favorites&quot;]/h2[@class=&quot;feed-title favorites&quot;]</value>
+      <webElementGuid>a5e21e6e-4f4a-43f8-86a9-1a77fa3acf8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='global-header']/div[2]/ul/li[2]/div/div/ul[2]/li/div/h2</value>
+      <webElementGuid>129fce3a-a6d0-4be5-9f6f-a5b8a960fa9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Settings'])[1]/following::h2[1]</value>
+      <webElementGuid>83a929bb-128a-46f8-ae2c-6e4d3c9fdb4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPN Profile'])[1]/following::h2[1]</value>
+      <webElementGuid>d19af792-d6e6-476b-9485-eb922d3f2288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/h2</value>
+      <webElementGuid>0e7af99d-1e14-43a9-9cb5-31b48da81576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'FavouritesEdit' or . = 'FavouritesEdit')]</value>
+      <webElementGuid>ff009c9e-95f3-448f-bc29-ec225d87344e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

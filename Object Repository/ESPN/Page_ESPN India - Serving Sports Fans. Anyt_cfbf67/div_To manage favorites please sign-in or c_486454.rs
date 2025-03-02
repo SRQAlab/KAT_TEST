@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_To manage favorites please sign-in or c_486454</name>
+   <tag></tag>
+   <elementGuidId>b71cf424-c213-48cb-b22a-e15f09054473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='global-header']/div[2]/ul/li[2]/div/div/ul[2]/li/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#global-header >> internal:text=&quot;To manage favorites please sign-in or create a MyDisney account.Create Account&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc303819-6988-4ac8-a675-d84f5b149a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message</value>
+      <webElementGuid>f54281ef-31d6-4e8f-9265-f47fbe220876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>To manage favorites please sign-in or create a MyDisney account.Create Account</value>
+      <webElementGuid>e1fefac6-198b-44ea-9920-230e5dda143e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-header&quot;)/div[@class=&quot;container&quot;]/ul[@class=&quot;tools focused&quot;]/li[@class=&quot;user hover&quot;]/div[@class=&quot;global-user&quot;]/div[@class=&quot;global-user-container&quot;]/ul[@class=&quot;favs&quot;]/li[1]/div[@class=&quot;current-favorites&quot;]/div[@class=&quot;message&quot;]</value>
+      <webElementGuid>217c9008-849a-4b93-80dd-f5c1b77605d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='global-header']/div[2]/ul/li[2]/div/div/ul[2]/li/div/div</value>
+      <webElementGuid>f89f7749-be03-493d-aac6-a8c914df0520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favourites'])[1]/following::div[1]</value>
+      <webElementGuid>30536745-b718-478f-89a2-664cd4c7bc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Settings'])[1]/following::div[2]</value>
+      <webElementGuid>750a3d31-1961-4d43-8d92-5dd62c7bc0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Football'])[1]/preceding::div[5]</value>
+      <webElementGuid>4326b232-84e9-4007-9699-dfe0809428f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Football'])[2]/preceding::div[5]</value>
+      <webElementGuid>6c31038a-f4a5-4df7-afe5-38f1972f3022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/div/div</value>
+      <webElementGuid>90cea59b-7928-4739-9934-79ef7609b1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'To manage favorites please sign-in or create a MyDisney account.Create Account' or . = 'To manage favorites please sign-in or create a MyDisney account.Create Account')]</value>
+      <webElementGuid>9f779a7e-1997-4ce5-8146-2a2b040453d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

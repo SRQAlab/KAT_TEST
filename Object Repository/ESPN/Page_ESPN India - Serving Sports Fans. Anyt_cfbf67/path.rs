@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>92bb98c0-0aef-4aa8-9f78-aa1c288d064c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#close > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;-close&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>d215559c-cc58-4f80-a018-c61c40bbf0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M4.92894 4.92888C4.53842 5.3194 4.53842 5.95257 4.92894 6.34309L10.5858 11.9999L4.92894 17.6568C4.53842 18.0473 4.53842 18.6805 4.92894 19.071C5.31946 19.4615 5.95263 19.4615 6.34315 19.071L12 13.4142L17.6569 19.071C18.0474 19.4615 18.6806 19.4615 19.0711 19.071C19.4616 18.6805 19.4616 18.0473 19.0711 17.6568L13.4142 11.9999L19.0711 6.34309C19.4616 5.95257 19.4616 5.3194 19.0711 4.92888C18.6806 4.53836 18.0474 4.53836 17.6569 4.92888L12 10.5857L6.34315 4.92888C5.95263 4.53836 5.31946 4.53836 4.92894 4.92888Z</value>
+      <webElementGuid>97db53ac-d3a9-4453-935c-34a517a915f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#252526</value>
+      <webElementGuid>8bfe363f-abc9-4662-955c-e1a679ecd32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close&quot;)/svg[1]/path[1]</value>
+      <webElementGuid>9de69fa4-bf6b-493f-88d1-4e02856bf736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPN/Page_ESPN India - Serving Sports Fans. Anyt_cfbf67/iframe_concat(id(, , oneid-iframe, , ))_one_8d9a57</value>
+      <webElementGuid>cd832706-8b7d-4267-8394-6275def8f98e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

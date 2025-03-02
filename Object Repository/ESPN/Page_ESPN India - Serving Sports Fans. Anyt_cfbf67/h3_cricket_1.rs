@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_cricket_1</name>
+   <tag></tag>
+   <elementGuidId>b332939b-7f62-48b1-bb82-8cdd4d4073c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fittPortal_0']/div/div/section/div/div/section/div/section/section[2]/div/ul/li[3]/div/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Mumbai IndianscricketUnfollow&quot;i >> h3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>584ce123-4666-42a5-9eb3-1f774524f6f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FavMgmt__Details__Cat truncate n10</value>
+      <webElementGuid>cfdf701e-0017-4d28-aef4-05805c843707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>cricket</value>
+      <webElementGuid>1c27dd4f-b2c9-46bc-8099-f87765bc4f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fittPortal_0&quot;)/div[@class=&quot;bp-mobile bp-mobileLG bp-mobileTablet bp-mobileMDPlus bp-mobileLGPlus no-touch&quot;]/div[@class=&quot;lightbox__wrapper flex justify-center lightbox__wrapper--mobile LightBox&quot;]/section[@class=&quot;lightbox__contentBox overflow-hidden relative lightbox__contentBox--heightWebkit lightbox__contentBox--mobile&quot;]/div[@class=&quot;lightbox__content lightbox__content--mobile&quot;]/div[@class=&quot;ResponsiveWrapper&quot;]/section[@class=&quot;Card FavMgmt FavMgmt--tabletPlus&quot;]/div[@class=&quot;Wrapper Card__Content&quot;]/section[@class=&quot;FavMgmt__Pane flex justify FavMgmt__Pane--searching&quot;]/section[@class=&quot;FavMgmt__Col FavMgmt__Col--Right flex flex-column&quot;]/div[@class=&quot;FavMgmt__Wrapper br2 flex-auto&quot;]/ul[@class=&quot;FavMgmt__Section&quot;]/li[@class=&quot;FavMgmt__Item flex items-center&quot;]/div[@class=&quot;FavMgmt__Details flex min-w-0 items-center flex-grow&quot;]/div[@class=&quot;FavMgmt__Details__Txt min-w-0 flex flex-column pl3&quot;]/h3[@class=&quot;FavMgmt__Details__Cat truncate n10&quot;]</value>
+      <webElementGuid>d9825599-d0e4-4d38-9a74-d728a34503b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ESPN/Page_ESPN India - Serving Sports Fans. Anyt_cfbf67/iframe_concat(id(, , favorites-manager-ifra_846b91</value>
+      <webElementGuid>2206a539-a8a8-4ba9-a08f-398b533dd2dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fittPortal_0']/div/div/section/div/div/section/div/section/section[2]/div/ul/li[3]/div/div[2]/h3</value>
+      <webElementGuid>e7db2848-c68f-42d1-95a9-dccd3b76fc97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai Indians'])[1]/following::h3[1]</value>
+      <webElementGuid>52b1f65c-1eca-448c-9e9b-f8d08ad84098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unfollow'])[2]/following::h3[1]</value>
+      <webElementGuid>a30b1ede-510c-44e6-bb2c-c116a75946cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unfollow'])[3]/preceding::h3[1]</value>
+      <webElementGuid>8eba8e4e-3b40-4892-8407-f09d6cbef2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chennai Super Kings'])[2]/preceding::h3[1]</value>
+      <webElementGuid>02043c7b-0ad4-4039-b4b0-a7693fefd8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/ul/li[3]/div/div[2]/h3</value>
+      <webElementGuid>3634ea28-199f-4509-b23a-d3cd58f961fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'cricket' or . = 'cricket')]</value>
+      <webElementGuid>22fb5696-440d-49e8-8c5b-30db1baab659</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

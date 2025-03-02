@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CSK</name>
+   <tag></tag>
+   <elementGuidId>1a73a7c8-de9d-4f6b-beb4-b7b3debb45b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;&amp;lpos=fp:favorites:2:csk&quot;] > div.quicklinks_list__detail > span.quicklinks_list__name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='favfeed-quicklinks']/li[2]/a/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;CSK CRICKET&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6689df7-798c-4336-aa1e-363a47fdb768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quicklinks_list__name</value>
+      <webElementGuid>2bd85130-d179-41e3-834f-e381276e2d92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CSK</value>
+      <webElementGuid>98162d8b-adf0-4a20-8e34-70fe60ba5d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;favfeed-quicklinks&quot;)/li[@class=&quot;quicklinks_list__item favItem--featured featured&quot;]/a[@class=&quot;quicklinks_list__link&quot;]/div[@class=&quot;quicklinks_list__detail&quot;]/span[@class=&quot;quicklinks_list__name&quot;]</value>
+      <webElementGuid>d2ed57a4-7abc-415d-9019-955c3a1481bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='favfeed-quicklinks']/li[2]/a/div[2]/span</value>
+      <webElementGuid>af04a08a-8e01-4885-b1db-258e6d5b2eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRICKET'])[1]/following::span[1]</value>
+      <webElementGuid>28befa23-f247-4d78-8403-166ac13977cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='India'])[2]/following::span[2]</value>
+      <webElementGuid>3f67ffb5-a3c9-47fc-913e-ee699a1f4200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRICKET'])[2]/preceding::span[1]</value>
+      <webElementGuid>5e8cfdcb-7cd5-47c2-9fe8-7264295c7b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai Indians'])[1]/preceding::span[2]</value>
+      <webElementGuid>07f320bf-d399-452c-ba4e-1fee0566b3f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CSK']/parent::*</value>
+      <webElementGuid>c09220c6-b423-484e-942f-47002fc1ff35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/ul/li[2]/a/div[2]/span</value>
+      <webElementGuid>3f943eda-8ec7-44b9-8a16-57da8f806d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CSK' or . = 'CSK')]</value>
+      <webElementGuid>a60b16c8-410f-4f0d-bf38-8da0379fba7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
