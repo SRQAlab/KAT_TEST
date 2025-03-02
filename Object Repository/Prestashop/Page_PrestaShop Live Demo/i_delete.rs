@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_delete</name>
+   <tag></tag>
+   <elementGuidId>deaf97e9-005b-42dc-a859-e58889f5d5d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.float-xs-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/div/div[2]/ul/li/div/div[3]/div/div[3]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;delete&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f9836beb-7286-462f-9f6a-bb1d8e9ef251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons float-xs-left</value>
+      <webElementGuid>3f131e21-5b0a-4946-a64a-d45e26a92d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>delete</value>
+      <webElementGuid>fb875813-29d4-4e39-9a62-8981744fccaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;cart-grid row&quot;]/div[@class=&quot;cart-grid-body col-lg-8&quot;]/div[@class=&quot;card cart-container&quot;]/div[@class=&quot;cart-overview js-cart&quot;]/ul[@class=&quot;cart-items&quot;]/li[@class=&quot;cart-item&quot;]/div[@class=&quot;product-line-grid&quot;]/div[@class=&quot;product-line-grid-right product-line-actions col-md-5 col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 col-xs-2 text-xs-right&quot;]/div[@class=&quot;cart-line-product-actions&quot;]/a[@class=&quot;remove-from-cart&quot;]/i[@class=&quot;material-icons float-xs-left&quot;]</value>
+      <webElementGuid>f3c8b97c-e6a0-485c-8c19-71310b5a025e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Prestashop/Page_PrestaShop Live Demo/iframe_Hide_framelive</value>
+      <webElementGuid>fa5c9878-d7c5-479f-bdaf-3a70e6fe045a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/div/div[2]/ul/li/div/div[3]/div/div[3]/div/a/i</value>
+      <webElementGuid>c6287c32-0654-4620-be90-508794f774df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€14.28'])[2]/following::i[1]</value>
+      <webElementGuid>cb5909c4-5b4a-4235-a795-7d15e95e3309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€14.28'])[1]/following::i[3]</value>
+      <webElementGuid>3d5918b6-f1cf-464a-9447-f7ac1a8d6aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today is a good day Framed poster'])[1]/preceding::i[1]</value>
+      <webElementGuid>aaa84a78-8bcc-4363-8b6c-473feb06065d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€34.80'])[1]/preceding::i[1]</value>
+      <webElementGuid>c203c1e8-5f73-43e4-9129-de8e956cb7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='delete']/parent::*</value>
+      <webElementGuid>99028ed8-be9a-4e0a-9a4c-3059a06a7cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/i</value>
+      <webElementGuid>df8fcc4c-7bb6-48cc-a14a-0411b6c365d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'delete' or . = 'delete')]</value>
+      <webElementGuid>64058a01-838f-40e8-a78d-0bc44e2780ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mug The best is yet to come</name>
+   <tag></tag>
+   <elementGuidId>6786ec11-2045-4303-9803-5c50e13b4261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/div/div[2]/ul/li/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Mug The best is yet to come&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bb76f2f3-896f-4465-bba9-e7b34be87d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>797c3f1e-2f56-408a-a0fc-1cd75e9b6b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://lacking-cause.demo.prestashop.com/en/home-accessories/6-mug-the-best-is-yet-to-come.html</value>
+      <webElementGuid>bf284b53-896d-4904-9057-053c6ef65325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id_customization</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3e0c2931-f27f-48f3-87b8-f1c34f7c6a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mug The best is yet to come</value>
+      <webElementGuid>91cd6ac5-f9ed-4762-b9df-d1f76af37a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;cart-grid row&quot;]/div[@class=&quot;cart-grid-body col-lg-8&quot;]/div[@class=&quot;card cart-container&quot;]/div[@class=&quot;cart-overview js-cart&quot;]/ul[@class=&quot;cart-items&quot;]/li[@class=&quot;cart-item&quot;]/div[@class=&quot;product-line-grid&quot;]/div[@class=&quot;product-line-grid-body col-md-4 col-xs-8&quot;]/div[@class=&quot;product-line-info&quot;]/a[@class=&quot;label&quot;]</value>
+      <webElementGuid>14d3b611-cb59-4f65-8a0f-86841970073c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Prestashop/Page_PrestaShop Live Demo/iframe_Hide_framelive</value>
+      <webElementGuid>0b06ea0c-c43c-46e8-968e-245eda1b60f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/div/div[2]/ul/li/div/div[2]/div/a</value>
+      <webElementGuid>6cd22ea8-bc6c-4f12-85d9-055a86cf1662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mug The best is yet to come')]</value>
+      <webElementGuid>c4eaa0c1-c0e1-46bb-9cef-7e219d1f0cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::a[1]</value>
+      <webElementGuid>3d41d34c-8771-46fd-9b7d-08aaddb98aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>b359ae25-1003-43d9-88c2-dca6a86c7f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€14.28'])[1]/preceding::a[1]</value>
+      <webElementGuid>e81459b9-429d-4d0b-91e6-7709e448d986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€14.28'])[2]/preceding::a[1]</value>
+      <webElementGuid>b7b0969a-e5bd-49a1-94a3-7a1c0b56a85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mug The best is yet to come']/parent::*</value>
+      <webElementGuid>1d540460-2799-4717-9782-3a3de4930a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://lacking-cause.demo.prestashop.com/en/home-accessories/6-mug-the-best-is-yet-to-come.html')]</value>
+      <webElementGuid>6bc20da9-b88c-45f4-aa06-3a5beecf143b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]/div/a</value>
+      <webElementGuid>cf3034c8-6f98-48fd-aa35-f22fcc6fbe54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://lacking-cause.demo.prestashop.com/en/home-accessories/6-mug-the-best-is-yet-to-come.html' and (text() = 'Mug The best is yet to come' or . = 'Mug The best is yet to come')]</value>
+      <webElementGuid>265b6eb3-b55d-4be9-94d7-dceafdd8f2f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

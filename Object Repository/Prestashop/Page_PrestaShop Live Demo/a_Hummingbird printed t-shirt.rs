@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hummingbird printed t-shirt</name>
+   <tag></tag>
+   <elementGuidId>7180da14-91b2-4ea0-a735-1dd4c248c489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/div/div[2]/ul/li[3]/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hummingbird printed t-shirt&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ea58a660-a325-4938-8273-267718f0a861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>345d74eb-0b04-4039-b2ef-46a44049eab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://lacking-cause.demo.prestashop.com/en/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white</value>
+      <webElementGuid>c505b718-fccf-443d-8967-24966fb63b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id_customization</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ac0ef609-310b-47db-9f8c-93d7ab94175d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hummingbird printed t-shirt</value>
+      <webElementGuid>fb312fdf-f97e-4925-b47e-a4e47fbe2a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;cart-grid row&quot;]/div[@class=&quot;cart-grid-body col-lg-8&quot;]/div[@class=&quot;card cart-container&quot;]/div[@class=&quot;cart-overview js-cart&quot;]/ul[@class=&quot;cart-items&quot;]/li[@class=&quot;cart-item&quot;]/div[@class=&quot;product-line-grid&quot;]/div[@class=&quot;product-line-grid-body col-md-4 col-xs-8&quot;]/div[@class=&quot;product-line-info&quot;]/a[@class=&quot;label&quot;]</value>
+      <webElementGuid>ac6019ad-0bfa-47e5-b032-94dc2cfbd52b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Prestashop/Page_PrestaShop Live Demo/iframe_Hide_framelive</value>
+      <webElementGuid>953194b3-943d-457a-9a5f-a2640c64de48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/div/div[2]/ul/li[3]/div/div[2]/div/a</value>
+      <webElementGuid>fb966c49-8ef9-41da-ab4b-278d64376590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hummingbird printed t-shirt')]</value>
+      <webElementGuid>f6ff6de9-5ca8-4082-b4b5-b2bb8552bacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[2]/following::a[1]</value>
+      <webElementGuid>56190ce2-8963-421a-84e9-7fbc94f5a658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€34.80'])[2]/following::a[2]</value>
+      <webElementGuid>da115cb3-9516-4d2d-a5f9-3438d8e396d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€28.68'])[1]/preceding::a[1]</value>
+      <webElementGuid>ffca3bef-c7e9-474f-b2a4-97ac26fef4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€22.94'])[1]/preceding::a[1]</value>
+      <webElementGuid>e2f2b96c-a9ca-4237-9d76-07db86af2084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hummingbird printed t-shirt']/parent::*</value>
+      <webElementGuid>e28ceb3b-d231-4853-bd06-023c834a9971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://lacking-cause.demo.prestashop.com/en/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white')]</value>
+      <webElementGuid>6ec6b0bf-83a6-44c1-9fb7-568ac8cd9dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div[2]/div/a</value>
+      <webElementGuid>eaba9680-ab92-42ba-92ed-f179428ac733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://lacking-cause.demo.prestashop.com/en/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white' and (text() = 'Hummingbird printed t-shirt' or . = 'Hummingbird printed t-shirt')]</value>
+      <webElementGuid>9bfedb4d-86ce-4527-9b19-47c93520136e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

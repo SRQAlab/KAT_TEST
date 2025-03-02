@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Today is a good day Framed poster</name>
+   <tag></tag>
+   <elementGuidId>202911ec-9d84-4505-96a1-8541a7b4bfb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/div/div[2]/ul/li[2]/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Today is a good day Framed poster&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f8cb1d86-e245-44c1-a93c-8bcf271e9d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0899e737-85c7-4209-aea7-2adfddf9b69c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://lacking-cause.demo.prestashop.com/en/art/5-19-today-is-a-good-day-framed-poster.html#/19-dimension-40x60cm</value>
+      <webElementGuid>9020c6b9-740e-421f-aac6-edb81af70bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id_customization</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f7eb59d4-de6c-40fa-ad2f-d802d9d6df79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Today is a good day Framed poster</value>
+      <webElementGuid>c3ebf674-2221-4db1-8b70-b7d319f7e526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;cart-grid row&quot;]/div[@class=&quot;cart-grid-body col-lg-8&quot;]/div[@class=&quot;card cart-container&quot;]/div[@class=&quot;cart-overview js-cart&quot;]/ul[@class=&quot;cart-items&quot;]/li[@class=&quot;cart-item&quot;]/div[@class=&quot;product-line-grid&quot;]/div[@class=&quot;product-line-grid-body col-md-4 col-xs-8&quot;]/div[@class=&quot;product-line-info&quot;]/a[@class=&quot;label&quot;]</value>
+      <webElementGuid>5e78528e-da41-459b-b17a-394d3f2899d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Prestashop/Page_PrestaShop Live Demo/iframe_Hide_framelive</value>
+      <webElementGuid>d0475e92-6e21-4805-8515-2c37006fe02a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/div/div[2]/ul/li[2]/div/div[2]/div/a</value>
+      <webElementGuid>c04685d8-11b4-4cdc-8e30-4a040bc1ce2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Today is a good day Framed poster')]</value>
+      <webElementGuid>0cab6233-8702-4eaa-80dd-d7532b70a423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[1]/following::a[1]</value>
+      <webElementGuid>de52cfb0-1a27-4beb-923c-b608b1ec084f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€14.28'])[2]/following::a[2]</value>
+      <webElementGuid>62ecca29-1a0d-4d5f-a9b6-05319087f4d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€34.80'])[1]/preceding::a[1]</value>
+      <webElementGuid>b8825cde-3a51-4e8b-8ac9-4f0f2088166a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dimension:'])[1]/preceding::a[1]</value>
+      <webElementGuid>ae6cd104-0c72-4449-aa84-e2e6361985a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Today is a good day Framed poster']/parent::*</value>
+      <webElementGuid>8eff031a-adb8-4d39-b96a-2864520474f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://lacking-cause.demo.prestashop.com/en/art/5-19-today-is-a-good-day-framed-poster.html#/19-dimension-40x60cm')]</value>
+      <webElementGuid>c83621be-b890-4a56-a875-aef749fcf53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div[2]/div/a</value>
+      <webElementGuid>77b5419b-c31b-4f84-9fa9-6869af3081ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://lacking-cause.demo.prestashop.com/en/art/5-19-today-is-a-good-day-framed-poster.html#/19-dimension-40x60cm' and (text() = 'Today is a good day Framed poster' or . = 'Today is a good day Framed poster')]</value>
+      <webElementGuid>5a30c169-863e-496d-bc7e-8985db8399da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
